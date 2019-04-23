@@ -10,4 +10,4 @@ Groupt Data Structures Extra Credit Project - 2019
 - TaxMain : contains majority of program logic
 - Client : custom class for data storage
 - Calculator (private) : calculates state and federal taxes for Client
-- ReadWrite (private) : reads/writes Client data to external .txt file
+- Stream (private) : reads/writes Client data to external .txt file
