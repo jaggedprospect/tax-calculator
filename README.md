@@ -1,5 +1,5 @@
 # tax-calculator
-Groupt Data Structures Extra Credit Project - 2019
+Group Data Structures Extra Credit Project - 2019
 
 ## For Team:
 - download the java files and load them into your project folder
