@@ -2,7 +2,8 @@
 Group Data Structures Extra Credit Project - 2019
 
 ## For Team:
-- download the java files and load them into your project folder
+- download the java files + text files and load them into your project folder
+* java files in src folder, text files directly in project folder
 - test code and make sure it runs
 
 ## Classes:
