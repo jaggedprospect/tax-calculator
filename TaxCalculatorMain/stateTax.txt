@@ -1,5 +1,4 @@
 Initial-State-Tax%
-
 AL-Alabama-4.00
 AK-Alaska-0.00
 AZ-Arizona-5.60
